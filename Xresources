@@ -1,0 +1,20 @@
+rofi.background: #263023
+rofi.foreground: #EEE8D5 
+rofi.highlightbg: #E8B71F
+rofi.highlightfg: #364CA0
+rofi.bordercolor: #263023
+rofi.padding: 1
+rofi.lines: 10
+rofi.borderwidth: 1
+rofi.opacity: 85
+rofi.font: Terminess Powerline 12
+rofi.location: 6
+rofi.yoffset: 0
+rofi.xoffset: 0
+rofi.width: 1924
+rofi.height: 1080
+rofi.fixed_num_lines: 1
+!#rofi.hmode: false
+rofi.terminal: st
+rofi.ssh-set-title: false
+rofi.fullscreen: false
